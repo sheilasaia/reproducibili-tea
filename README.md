@@ -31,6 +31,7 @@ Twitch via Discord
 > Universities/insitutions and open knowledge
 
 ## Tea Chatter
+Talk about kombucha! 
 
 
 ## Discusion Questions:
@@ -41,26 +42,32 @@ Metadata?
 # Credit, Contributors, and Chai
 > 
 
-What is the CREDIT taxonomy?
-What is it like to be on the inside of a lab?
-Evolution of authorship to contributorship.
-How does current acadmemic systems value/evaluate contribution?
-What are some barries to open science being the norm? (evaluation and training)
-How did you get started on your open science journey?
+## Discusion Questions:
+- What is the CREDIT taxonomy?
+- What is it like to be on the inside of a lab?
+- Evolution of authorship to contributorship.
+- How does current acadmemic systems value/evaluate contribution?
+- What are some barries to open science being the norm? (evaluation and training)
+- How did you get started on your open science journey?
 
-National Academies incentives
-Example of `tidycensus` package and evaluation mis-match
+## Examples
+- National Academies incentives
+- Example of `tidycensus` package and evaluation mis-match
 
 # Diversity, Documentation, and Darjeeling
 > 
 
-What are some potential barriers to doing/reproducing open science?
-What is it like to be a scientist doing open science?
-What is FAIR?
-What is CARE?
-Why FAIR and CARE are both important?
-Documentation and language.
-How do we make data science training open and more inclusive?
-Relationships and open science (not a one way street)
+## Discusion Questions:
+- What are some potential barriers to doing/reproducing open science?
+- What is it like to be a scientist doing open science?
+- What is FAIR?
+- What is CARE?
+- Why FAIR and CARE are both important?
+- Documentation and language.
+- How do we make data science training open and more inclusive?
+- Relationships and open science (not a one way street)
 
 Accessibility and open science
+
+## Examples
+- https://www.opencider.org/
