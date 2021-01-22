@@ -10,8 +10,16 @@ Brainstorm and resources for Reproducibili-Tea event at NC State University Libr
 # Platform
 fill in
 
-# Early Grey Open Literature
-fill in
+# Earl Grey Literature
+Is it gauche to order a 'London Fog' at the local coffee shop?
+London is cool, right?
+Oxford [Reproducible Research](https://ox.ukrn.org/) Initiative
+Why [reproducibili-tea](https://reproducibilitea.org/)?
+What is 'grey literature' anyways?
+Are pre-prints the future of publishing?
+What do I do with a conference poster?
+
+
 
 # Open Kombucha Knowledlge
 fill in
