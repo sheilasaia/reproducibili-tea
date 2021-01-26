@@ -1,11 +1,11 @@
 # reproducibili-tea
-Brainstorm and resources for Reproducibili-Tea event at NC State University Libraries co-organized with me (Sheila Saia) and Micah Vandegrift.
+Brainstorm document and resources for the Reproducibili-Tea events at NC State University Libraries co-organized by Micah Vandegrift and Sheila Saia.
 
 # Schedule
-- Early Grey Open Literature (2021-02-03 12-1pm ET)
-- Open Kombucha Knowledge (2021-02-10 12-1pm ET)
-- Credit, Contributors, and Chai (2021-02-17 12-1pm ET)
-- Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET)
+* Early Grey Open Literature (2021-02-03 12-1pm ET)
+* Open Kombucha Knowledge (2021-02-10 12-1pm ET)
+* Credit, Contributors, and Chai (2021-02-17 12-1pm ET)
+* Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET)
 
 # Platform
 NC State Library Twitch (via Discord for Micah and Sheila)
@@ -48,13 +48,14 @@ NC State Library Twitch (via Discord for Micah and Sheila)
 2. How does kombucha work?
 3. Why is brewing kombucha fun?
 4. What's your favorite kombucha flavor?
+5. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
 ## Discusion Questions:
-When does something move from information to knowledge?
-What is open knowledge, open science, open (fill in blank)?
-What started you on your open access/open science journey?
-What are our open knowledge roles as librarians and researchers?
-Metadata?
+1. When does something move from information to knowledge?
+2. What is open knowledge, open science, open (fill in blank)?
+3. What started you on your open access/open science journey?
+4. What are our open knowledge roles as librarians and researchers?
+5. What is metadata and why is it important?
 
 ## Resources & Examples to Share:
 * (add resources)
@@ -70,7 +71,7 @@ Metadata?
 ## Tea Talk
 1. What's the difference between chai and cha?
 2. What spices are key to a good chai?
-
+3. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
 ## Discusion Questions:
 1. What is the CREDIT taxonomy?
@@ -95,7 +96,7 @@ Metadata?
 ## Tea Talk
 1. What's your take on Darjeeling in the tea-sphere?
 2. Do you think of Wes Anderson while drinking darjeeling?
-
+3. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
 ## Discusion Questions:
 1. What are some potential barriers to doing/reproducing open science?
@@ -111,4 +112,3 @@ Metadata?
 ## Resources & Examples to Share:
 * [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
 * [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
-*
