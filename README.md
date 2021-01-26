@@ -2,18 +2,19 @@
 Brainstorm and resources for Reproducibili-Tea event at NC State University Libraries co-organized with me (Sheila Saia) and Micah Vandegrift.
 
 # Schedule
-- Early Grey Open Literature (2021-02-03 12-2pm ET)
-- Open Kombucha Knowledge (2021-02-10 12-2pm ET)
-- Credit, Contributors, and Chai (2021-02-17 12-2pm ET)
-- Diversity, Documentation, and Darjeeling (2021-02-24 12-2pm ET)
+- Early Grey Open Literature (2021-02-03 12-1pm ET)
+- Open Kombucha Knowledge (2021-02-10 12-1pm ET)
+- Credit, Contributors, and Chai (2021-02-17 12-1pm ET)
+- Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET)
 
 # Platform
-Twitch via Discord
+NC State Library Twitch (via Discord for Micah and Sheila)
 
 # Earl Grey Literature
+
 > The scholarly record and reproducibility
 
-## Tea Chatter
+## Tea Talk
 1. What exactly is Earl Grey?
 2. Is it gauche to order a 'London Fog' at the local coffee shop?
 3. London is cool, right?
@@ -27,47 +28,71 @@ Twitch via Discord
 5. What is pre-registration?
 6. Any papers, resources, experts, etc. you want to share on this topic?
 
-# Open Kombucha Knowledlge
-> Universities/insitutions and open knowledge
+## Resources & Examples to Share:
+* (add resources)
 
-## Tea Chatter
-Talk about kombucha! 
+# Open Kombucha Knowledge
 
+> Universities/Institutions and open knowledge
+
+## Tea Talk
+1. What is that science experiment on your counter?
+2. How does kombucha work?
+3. Why is brewing kombucha fun?
+4. What's your favorite kombucha flavor?
 
 ## Discusion Questions:
 When does something move from information to knowledge?
+What is open knowledge, open science, open (fill in blank)?
+What started you on your open access/open science journey?
 What are our open knowledge roles as librarians and researchers?
 Metadata?
 
+## Resources & Examples to Share:
+* (add resources)
+
 # Credit, Contributors, and Chai
-> 
+
+> Attributing open knowledge.
+
+## Tea Talk
+1. What's the difference between chai and cha?
+2. What spices are key to a good chai?
+
 
 ## Discusion Questions:
-- What is the CREDIT taxonomy?
-- What is it like to be on the inside of a lab?
-- Evolution of authorship to contributorship.
-- How does current acadmemic systems value/evaluate contribution?
-- What are some barries to open science being the norm? (evaluation and training)
-- How did you get started on your open science journey?
+1. What is the CREDIT taxonomy?
+2. What is it like to be on the inside of a lab?
+3. Evolution of authorship to contributorship.
+4. How does current acadmemic systems value/evaluate contribution?
+5. What are some barries to open science being the norm? (evaluation and training)
+6. How did you get started on your open science journey?
 
-## Examples
-- National Academies incentives
-- Example of `tidycensus` package and evaluation mis-match
+## Resources & Examples to Share:
+* National Academies incentives
+* Example of `tidycensus` package and evaluation mis-match
 
 # Diversity, Documentation, and Darjeeling
-> 
+
+> Accessible open knowledge and open science for all.
+
+## Tea Talk
+1. What's your take on Darjeeling in the tea-sphere?
+2. Do you think of Wes Anderson while drinking darjeeling?
+
 
 ## Discusion Questions:
-- What are some potential barriers to doing/reproducing open science?
-- What is it like to be a scientist doing open science?
-- What is FAIR?
-- What is CARE?
-- Why FAIR and CARE are both important?
-- Documentation and language.
-- How do we make data science training open and more inclusive?
-- Relationships and open science (not a one way street)
+1. What are some potential barriers to doing/reproducing open science?
+2. What is it like to be a scientist doing open science?
+3. What are some common questions the library gets about doing open science?
+4. What is FAIR?
+5. What is CARE?
+6. What role do relationships play when doing open science? (not a one way street)
+7. Why are FAIR and CARE important?
+8. How do we make data science training open and more inclusive?
+9. How can we make documentation accessible to non-English speakers and folks that use assistive technologies?
 
-Accessibility and open science
-
-## Examples
-- https://www.opencider.org/
+## Resources & Examples to Share:
+* [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
+* [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
+*
