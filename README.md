@@ -14,6 +14,10 @@ NC State Library Twitch (via Discord for Micah and Sheila)
 
 > The scholarly record and reproducibility
 
+## Introductions
+
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+
 ## Tea Talk
 1. What exactly is Earl Grey?
 2. Is it gauche to order a 'London Fog' at the local coffee shop?
@@ -35,6 +39,10 @@ NC State Library Twitch (via Discord for Micah and Sheila)
 
 > Universities/Institutions and open knowledge
 
+## Introductions
+
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+
 ## Tea Talk
 1. What is that science experiment on your counter?
 2. How does kombucha work?
@@ -53,7 +61,11 @@ Metadata?
 
 # Credit, Contributors, and Chai
 
-> Attributing open knowledge.
+> Attributing open knowledge
+
+## Introductions
+
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 ## Tea Talk
 1. What's the difference between chai and cha?
@@ -74,7 +86,11 @@ Metadata?
 
 # Diversity, Documentation, and Darjeeling
 
-> Accessible open knowledge and open science for all.
+> Accessible open knowledge and open science for all
+
+## Introductions
+
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 ## Tea Talk
 1. What's your take on Darjeeling in the tea-sphere?
