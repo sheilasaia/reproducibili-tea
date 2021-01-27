@@ -82,6 +82,7 @@ NC State Library Twitch (via Discord for Micah and Sheila)
 6. How did you get started on your open science journey?
 
 ## Resources & Examples to Share:
+* [Visual matrices for clarity in contributor roles](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers?utm_source=Daily+Lab+email+list&utm_campaign=362c382437-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-362c382437-396184709)
 * National Academies incentives
 * Example of `tidycensus` package and evaluation mis-match
 
