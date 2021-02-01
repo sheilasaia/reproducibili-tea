@@ -42,11 +42,9 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * Chiarelli, Andrea, Johnson, Rob, Pinfield, Stephen, & Richens, Emma. (2019, September 24). Accelerating scholarly communication: The transformative role of preprints. Zenodo. http://doi.org/10.5281/zenodo.3357727
 * Rieger, O. Y. (2020, May 27). Preprints in the Spotlight: Establishing Best Practices, Building Trust. https://doi.org/10.18665/sr.313288
 * [OpenGrey.eu](http://www.opengrey.eu/)
-* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) 
+* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) <--- SO META!!
 
-![Alt Text](https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif)
-
-SO META!!
+<img src="https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif" width="100" height="100" />
 
 --- 
 
