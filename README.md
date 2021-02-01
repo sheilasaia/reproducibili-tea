@@ -29,10 +29,11 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 1. Oxford [Reproducible Research](https://ox.ukrn.org/) Initiative
 2. What is 'grey literature' anyways?
 - "That which is produced on all levels of government, academics, business and industry in print and electronic formats, but which is not controlled by commercial publishers." From the [4th International Conference on Grey Literature](https://www.greylit.org/about) (1999)
-3. Are pre-prints the future of publishing?
-4. What do I do with a conference poster?
-5. What is pre-registration?
-6. Any papers, resources, experts, etc. you want to share on this topic?
+3. Where might one find grey literature and how would one know?
+4. Are pre-prints the future of publishing?
+5. What do I do with a conference poster?
+6. What is pre-registration?
+7. Any papers, resources, experts, etc. you want to share on this topic?
 
 ## Resources & Examples to Share:
 * Pollock, M. C. (2018). Art of the Tea Latte. Tea & Coffee Trade Journal, 190(4), 47–49.
@@ -42,9 +43,8 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * Chiarelli, Andrea, Johnson, Rob, Pinfield, Stephen, & Richens, Emma. (2019, September 24). Accelerating scholarly communication: The transformative role of preprints. Zenodo. http://doi.org/10.5281/zenodo.3357727
 * Rieger, O. Y. (2020, May 27). Preprints in the Spotlight: Establishing Best Practices, Building Trust. https://doi.org/10.18665/sr.313288
 * [OpenGrey.eu](http://www.opengrey.eu/)
-* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) <--- SO META!!
-
-<img src="https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif" width="100" height="100" />
+* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) <--- SO META!! <img src="https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif" width="100" height="100" />
+* [Some grey Literature at NC State](https://repository.lib.ncsu.edu/)
 
 --- 
 
