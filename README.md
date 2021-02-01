@@ -1,22 +1,23 @@
 # reproducibili-tea
 Brainstorm document and resources for the Reproducibili-Tea events at NC State University Libraries co-organized by Micah Vandegrift and Sheila Saia.
+Livestream and recordings will be available at https://www.twitch.tv/ncsulibraries
 
 # Schedule
-* Early Grey Open Literature (2021-02-03 12-1pm ET)
-* Open Kombucha Knowledge (2021-02-10 12-1pm ET)
-* Credit, Contributors, and Chai (2021-02-17 12-1pm ET)
-* Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET)
+* Earl Grey Open Literature (2021-02-03 12-1pm ET / 17:00 UCT)
+* Open Kombucha Knowledge (2021-02-10 12-1pm ET / 17:00 UCT)
+* Credit, Contributors, and Chai (2021-02-17 12-1pm ET / 17:00 UCT)
+* Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET / 17:00 UCT)
 
 # Platform
-NC State Library Twitch (via Discord for Micah and Sheila)
+[NC State Library Twitch](https://www.twitch.tv/ncsulibraries) (via Discord for Micah and Sheila)
 
 # Earl Grey Literature
 
-> The scholarly record and reproducibility
+> The evolving scholarly record and reproducibility
 
 ## Introductions
 
-[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 ## Tea Talk
 1. What exactly is Earl Grey?
@@ -27,13 +28,24 @@ NC State Library Twitch (via Discord for Micah and Sheila)
 ## Discussion Questions:
 1. Oxford [Reproducible Research](https://ox.ukrn.org/) Initiative
 2. What is 'grey literature' anyways?
+- "That which is produced on all levels of government, academics, business and industry in print and electronic formats, but which is not controlled by commercial publishers." From the [4th International Conference on Grey Literature](https://www.greylit.org/about) (1999)
 3. Are pre-prints the future of publishing?
 4. What do I do with a conference poster?
 5. What is pre-registration?
 6. Any papers, resources, experts, etc. you want to share on this topic?
 
 ## Resources & Examples to Share:
-* (add resources)
+* Pollock, M. C. (2018). Art of the Tea Latte. Tea & Coffee Trade Journal, 190(4), 47–49.
+* Bazalgette, P. (2013). The taste test: Earl grey tea. FT.Com
+* Preprinting the COVID-19 pandemic. Nicholas Fraser, Liam Brierley, Gautam Dey, Jessica K Polka, Máté Pálfy, Federico Nanni, Jonathon Alexis Coates. bioRxiv 2020.05.22.111294; doi: https://doi.org/10.1101/2020.05.22.111294
+* Chiarelli A, Johnson R, Pinfield S and Richens E. Preprints and Scholarly Communication: An Exploratory Qualitative Study of Adoption, Practices, Drivers and Barriers [version 2; peer review: 3 approved, 1 approved with reservations]. F1000Research 2019, 8:971 (https://doi.org/10.12688/f1000research.19619.2)
+* Chiarelli, Andrea, Johnson, Rob, Pinfield, Stephen, & Richens, Emma. (2019, September 24). Accelerating scholarly communication: The transformative role of preprints. Zenodo. http://doi.org/10.5281/zenodo.3357727
+* Rieger, O. Y. (2020, May 27). Preprints in the Spotlight: Establishing Best Practices, Building Trust. https://doi.org/10.18665/sr.313288
+* [OpenGrey.eu](http://www.opengrey.eu/)
+* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) 
+
+![Alt Text](https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif)
+SO META!!
 
 # Open Kombucha Knowledge
 
