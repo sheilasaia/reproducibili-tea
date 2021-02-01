@@ -45,7 +45,10 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) 
 
 ![Alt Text](https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif)
+
 SO META!!
+
+--- 
 
 # Open Kombucha Knowledge
 
