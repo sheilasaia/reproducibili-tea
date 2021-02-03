@@ -45,11 +45,17 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * Rieger, O. Y. (2020, May 27). Preprints in the Spotlight: Establishing Best Practices, Building Trust. https://doi.org/10.18665/sr.313288
 * [OpenGrey.eu](http://www.opengrey.eu/)
 * [Some grey Literature at NC State](https://repository.lib.ncsu.edu/)
-* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) <--- SO META!! 
+* [Intnl Journal of Grey Lit](http://www.greynet.org/thegreyjournal.html) <--- SO META!!
 
 <img src="https://media.giphy.com/media/gY5sEujrJbCve/giphy.gif" width="100" height="100" />
 
---- 
+* *Pre-printing Microbiolgy* by P.D. Schloss (paper [here](https://mbio.asm.org/content/8/3/e00438-17))
+* [Blog post](https://sheilasaia.rbind.io/post/2019-05-19-preprint-intro/) by Sheila on pre-prints
+* Center for Open Science on Preregistration definition and resources (link [here](https://www.cos.io/initiatives/prereg))
+* *The preregistration revolution* by Nosek et al. (paper [here](https://www.pnas.org/content/115/11/2600))
+
+
+---
 
 # Open Kombucha Knowledge
 
