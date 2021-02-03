@@ -38,6 +38,7 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 ## Resources & Examples to Share:
 * Pollock, M. C. (2018). Art of the Tea Latte. Tea & Coffee Trade Journal, 190(4), 47–49.
 * Bazalgette, P. (2013). The taste test: Earl grey tea. FT.Com
+* Lavoie, Brian, Eric Childress, Ricky Erway, Ixchel Faniel, Constance Malpas, Jennifer Schaffner, and Titia van der Werf. 2014. The Evolving Scholarly Record. Dublin, Ohio: OCLC Research. https://doi.org/10.25333/C3763V.
 * Preprinting the COVID-19 pandemic. Nicholas Fraser, Liam Brierley, Gautam Dey, Jessica K Polka, Máté Pálfy, Federico Nanni, Jonathon Alexis Coates. bioRxiv 2020.05.22.111294; doi: https://doi.org/10.1101/2020.05.22.111294
 * Chiarelli A, Johnson R, Pinfield S and Richens E. Preprints and Scholarly Communication: An Exploratory Qualitative Study of Adoption, Practices, Drivers and Barriers [version 2; peer review: 3 approved, 1 approved with reservations]. F1000Research 2019, 8:971 (https://doi.org/10.12688/f1000research.19619.2)
 * Chiarelli, Andrea, Johnson, Rob, Pinfield, Stephen, & Richens, Emma. (2019, September 24). Accelerating scholarly communication: The transformative role of preprints. Zenodo. http://doi.org/10.5281/zenodo.3357727
