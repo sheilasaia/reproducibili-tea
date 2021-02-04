@@ -53,6 +53,7 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * [Blog post](https://sheilasaia.rbind.io/post/2019-05-19-preprint-intro/) by Sheila on pre-prints
 * Center for Open Science on Preregistration definition and resources (link [here](https://www.cos.io/initiatives/prereg))
 * *The preregistration revolution* by Nosek et al. (paper [here](https://www.pnas.org/content/115/11/2600))
+* *Ten Simple Rules to Consider Regarding Preprint Submission* by Bourne et al. (paper [here](http://dx.plos.org/10.1371/journal.pcbi.1005473))
 
 
 ---
