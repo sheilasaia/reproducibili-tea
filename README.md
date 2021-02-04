@@ -81,8 +81,10 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 5. What is metadata and why is it important?
 
 ## Resources & Examples to Share:
-* (add resources)
+* [Reusable Research webinar](https://reusableresearch.com/) (happening just as we finish!)
+* 
 
+---
 # Credit, Contributors, and Chai
 
 > Attributing open knowledge
