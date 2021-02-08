@@ -64,7 +64,7 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 
 ## Introductions
 
-[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 ## Tea Talk
 1. What is that science experiment on your counter?
@@ -76,13 +76,13 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 ## Discusion Questions:
 1. When does something move from information to knowledge?
 2. What is open knowledge, open science, open (fill in blank)?
-3. What started you on your open access/open science journey?
+3. What started you on your open access/open science journey? (Origin story!)
 4. What are our open knowledge roles as librarians and researchers?
 5. What is metadata and why is it important?
 
 ## Resources & Examples to Share:
 * [Reusable Research webinar](https://reusableresearch.com/) (happening just as we finish!)
-* 
+* [Open Knowledge Institutions: Reinventing Universities](https://wip.mitpress.mit.edu/oki)
 
 ---
 # Credit, Contributors, and Chai
