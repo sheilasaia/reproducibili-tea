@@ -91,8 +91,11 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * Find your metadata standard [here](https://www.go-fair.org/fair-principles/r1-3-metadata-meet-domain-relevant-community-standards/) and [here](https://guides.ucf.edu/metadata/domMetaStandards)
 * [WaterML](https://en.wikipedia.org/wiki/WaterML) metadata standard as an example (for hydrology and related fields)
 * [*The Open Science Training Handbook*](https://book.fosteropenscience.eu/en/) by Bezjak et al. (2018)
-* "Open science is a spectrum rather than an on/off switch." - Micah
+* _"Open science is a spectrum rather than an on/off switch."_ - Micah, from Micah Vandegrift. (2021, February 4). Defining Open Science. Scholarly Communication Librarianship and Open Culture: Law, Economics, and Publishing. Association of College and Research Libraries. http://doi.org/10.5281/zenodo.4501795
 * [*A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*](https://www.uky.edu/~rsand1/china2018/texts/Anderson-Krathwohl%20-%20A%20taxonomy%20for%20learning%20teaching%20and%20assessing.pdf) by Anderson and Krathworth (2001)
+* Olga Podolich, Olga Kukharenko, Andriy Haidak, Iryna Zaets, Leonid Zaika, Olha Storozhuk, Larysa Palchikovska, Iryna Orlovska, Oleg Reva, Tatiana Borisova, Ludmila Khirunenko, Mikhail Sosnin, Elke Rabbow, Volodymyr Kravchenko, Mykola Skoryk, Maksym Kremenskoy, Rene Demets, Karen Olsson-Francis, Natalia Kozyrovska, and Jean-Pierre Paul de Vera.Astrobiology.Feb 2019.183-196.http://doi.org/10.1089/ast.2017.1746
+* [Microbial Diversity of Kombucha](http://microbialfoods.org/science-digested-microbial-diversity-kombucha/), from Microbialfoods.org
+* [Scholia](https://scholia.toolforge.org/) built on/from [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ---
 # Credit, Contributors, and Chai
