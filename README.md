@@ -85,12 +85,14 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * [Open Knowledge Institutions: Reinventing Universities](https://wip.mitpress.mit.edu/oki)
 * [NC State Dept. of Applied Ecology Fermentology Mini-Seminars](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
 * Kombucha microbiolgy [explainer blogpost](http://microbialfoods.org/science-digested-microbial-diversity-kombucha/) by Dr. Benjamin Wolfe
-* [*The Big Book of Kombucha*](https://www.storey.com/books/the-big-book-of-kombucha/) by Hannah Crum and Alex LaGory
+* [*The Big Book of Kombucha*](https://www.storey.com/books/the-big-book-of-kombucha/) by Hannah Crum and Alex LaGory for all things kombucha and kombucha brewing
 * Hannah Crum's website on [*Mold vs Not Mold*](https://www.kombuchakamp.com/kombucha-mold-information-and-pictures)
 * [Example README template for metadata](https://data.research.cornell.edu/content/readme) - Shout out to my library mentors Gail Steinhart and Erica Johns at Cornell Libraries!
 * Find your metadata standard [here](https://www.go-fair.org/fair-principles/r1-3-metadata-meet-domain-relevant-community-standards/) and [here](https://guides.ucf.edu/metadata/domMetaStandards)
-* [WaterML](https://en.wikipedia.org/wiki/WaterML) metadata standard (for hydrology and related fields)
-* 
+* [WaterML](https://en.wikipedia.org/wiki/WaterML) metadata standard as an example (for hydrology and related fields)
+* [*The Open Science Training Handbook*](https://book.fosteropenscience.eu/en/) by Bezjak et al. (2018)
+* "Open science is a spectrum rather than an on/off switch." - Micah
+* [*A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*](https://www.uky.edu/~rsand1/china2018/texts/Anderson-Krathwohl%20-%20A%20taxonomy%20for%20learning%20teaching%20and%20assessing.pdf) by Anderson and Krathworth (2001)
 
 ---
 # Credit, Contributors, and Chai
