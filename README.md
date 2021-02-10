@@ -83,6 +83,14 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 ## Resources & Examples to Share:
 * [Reusable Research webinar](https://reusableresearch.com/) (happening just as we finish!)
 * [Open Knowledge Institutions: Reinventing Universities](https://wip.mitpress.mit.edu/oki)
+* [NC State Dept. of Applied Ecology Fermentology Mini-Seminars](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
+* Kombucha microbiolgy [explainer blogpost](http://microbialfoods.org/science-digested-microbial-diversity-kombucha/) by Dr. Benjamin Wolfe
+* [*The Big Book of Kombucha*](https://www.storey.com/books/the-big-book-of-kombucha/) by Hannah Crum and Alex LaGory
+* Hannah Crum's website on [*Mold vs Not Mold*](https://www.kombuchakamp.com/kombucha-mold-information-and-pictures)
+* [Example README template for metadata](https://data.research.cornell.edu/content/readme) - Shout out to my library mentors Gail Steinhart and Erica Johns at Cornell Libraries!
+* Find your metadata standard [here](https://www.go-fair.org/fair-principles/r1-3-metadata-meet-domain-relevant-community-standards/) and [here](https://guides.ucf.edu/metadata/domMetaStandards)
+* [WaterML](https://en.wikipedia.org/wiki/WaterML) metadata standard (for hydrology and related fields)
+* 
 
 ---
 # Credit, Contributors, and Chai
