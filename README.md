@@ -123,7 +123,14 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * [Visual matrices for clarity in contributor roles](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers?utm_source=Daily+Lab+email+list&utm_campaign=362c382437-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-362c382437-396184709)
 * National Academies incentives
 * Example of `tidycensus` package and evaluation mis-match
+* Holcombe, A. (2019). Farewell authors, hello contributors. Nature, 571, 147. https://doi.org/10.1038/d41586-019-02084-8
+* Holcombe, A. (2020, July 13). Announcing Tenzing. Medium. https://medium.com/@ceptional/announcing-tenzing-ceca6789d88c
+* Larivière, V., Desrochers, N., Macaluso, B., Mongeon, P., Paul-Hus, A., & Sugimoto, C. R. (2016). Contributorship and division of labor in knowledge production: Social Studies of Science. https://doi.org/10.1177/0306312716650046
+* Nowviskie, B. (2012, December 19). Evaluating Collaborative Digital Scholarship (or, Where Credit is Due). Journal of Digital Humanities. http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/
+* Transparency in Author Contributions in Science (TACS). (n.d.). Retrieved June 7, 2019, from http://www.nasonline.org/publications/Transparency_Author_Contributions.html
+* Vasilevsky, N. A., Hosseini, M., Teplitzky, S., Ilik, V., Mohammadi, E., Schneider, J., Kern, B., Colomb, J., Edmunds, S. C., Gutzman, K., Himmelstein, D. S., White, M., Smith, B., O’Keefe, L., Haendel, M., & Holmes, K. L. (2020). Is authorship sufficient for today’s collaborative research? A call for contributor roles. Accountability in Research, 1–21. https://doi.org/10.1080/08989621.2020.1779591
 
+---
 # Diversity, Documentation, and Darjeeling
 
 > Accessible open knowledge and open science for all
