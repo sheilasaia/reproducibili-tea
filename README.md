@@ -106,23 +106,35 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
+With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimoto/index.php).
+
 ## Tea Talk
-1. What's the difference between chai and cha?
+1. What are Micah's feelings/thoughts about giving kombucha a second chance since our conversation last week? (Is it still a weird, sour science experiment?)
+2. What's the difference between chai and cha?
 2. What spices are key to a good chai?
-3. Why [reproducibili-tea](https://reproducibilitea.org/)?
+3. What's Cassidy's favorite type of tea?
+4. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
 ## Discusion Questions:
-1. What is the CREDIT taxonomy?
-2. What is it like to be on the inside of a lab?
-3. Evolution of authorship to contributorship.
-4. How does current acadmemic systems value/evaluate contribution?
-5. What are some barries to open science being the norm? (evaluation and training)
-6. How did you get started on your open science journey?
+1. What is the CRediT taxonomy?
+2. What is Altmetric?
+3. What is it like to be on the inside of a lab (i.e., Micah's vs Sheila & Cassidy's perspective on credit and open science collaborations)?
+4. What is the evolution (and diversity?) of authorship to contributorship?
+5. How do academic systems currently value/evaluate contribution?
+6. What are some barriers to open science being the norm? (evaluation/research outputs and training)
+7. How did you get started on your open science journey?
 
 ## Resources & Examples to Share:
 * [Visual matrices for clarity in contributor roles](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers?utm_source=Daily+Lab+email+list&utm_campaign=362c382437-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-362c382437-396184709)
 * National Academies incentives
-* Example of `tidycensus` package and evaluation mis-match
+* Example of [`tidycensus` R package](https://github.com/walkerke/tidycensus) by Dr. Kyle Walker and "research output" evaluation mis-match
+* CRediT stands for Contributor Roles Taxonomy and is describe [here](https://casrai.org/credit/) by the Consortia Advancing Standards in Research Administration (CASRAI) and National Information Standards Organization (NISO)
+* [Example](https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf) of the journal *Cell* adopting CRediT taxonomy to standardize author contribution statements in peer-reviewed articles (see more at https://casrai.org/credit/ > "Adopters")
+* [Example](https://www.rigb.org/christmas-lectures/watch/2020/planet-earth-a-users-guide) of science communication by [Dr. Christopher Jackson](https://twitter.com/seis_matters) who was invited along with two other scientists to give this year's Royal Institution Christmas Lecture
+* Using ORCID (along with CRediT) to get recognition for your work, see [this article from ORCID](https://info.orcid.org/contributor-recognition-an-update-on-orcid-project-credit-and-contributorship-badges/)
+* NTRES 6490 (~2012 but as of 2017 is NTRES 6600?) at Cornell University taught by Erica Johns (librarian) and Dr. Cliff Kraft (faculty): *Special Topics Grad Course: Managing data to facilitate graduate student research*, see the library guide [here](https://guides.library.cornell.edu/NTRES6600)
+* Altmetric for researchers [website](https://www.altmetric.com/audience/researchers/)
+* Papers on why controbutions/credit matters to early career researchers?
 
 # Diversity, Documentation, and Darjeeling
 
