@@ -134,7 +134,13 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 * Using ORCID (along with CRediT) to get recognition for your work, see [this article from ORCID](https://info.orcid.org/contributor-recognition-an-update-on-orcid-project-credit-and-contributorship-badges/)
 * NTRES 6490 (~2012 but as of 2017 is NTRES 6600?) at Cornell University taught by Erica Johns (librarian) and Dr. Cliff Kraft (faculty): *Special Topics Grad Course: Managing data to facilitate graduate student research*, see the library guide [here](https://guides.library.cornell.edu/NTRES6600)
 * Altmetric for researchers [website](https://www.altmetric.com/audience/researchers/)
-* Papers on why controbutions/credit matters to early career researchers?
+* Holcombe, A. (2019). Farewell authors, hello contributors. Nature, 571, 147. https://doi.org/10.1038/d41586-019-02084-8
+* Holcombe, A. (2020, July 13). Announcing Tenzing. Medium. https://medium.com/@ceptional/announcing-tenzing-ceca6789d88c
+* Larivière, V., Desrochers, N., Macaluso, B., Mongeon, P., Paul-Hus, A., & Sugimoto, C. R. (2016). Contributorship and division of labor in knowledge production: Social Studies of Science. https://doi.org/10.1177/0306312716650046
+* Nowviskie, B. (2012, December 19). Evaluating Collaborative Digital Scholarship (or, Where Credit is Due). Journal of Digital Humanities. http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/
+* Transparency in Author Contributions in Science (TACS). (n.d.). Retrieved June 7, 2019, from http://www.nasonline.org/publications/Transparency_Author_Contributions.html
+* Vasilevsky, N. A., Hosseini, M., Teplitzky, S., Ilik, V., Mohammadi, E., Schneider, J., Kern, B., Colomb, J., Edmunds, S. C., Gutzman, K., Himmelstein, D. S., White, M., Smith, B., O’Keefe, L., Haendel, M., & Holmes, K. L. (2020). Is authorship sufficient for today’s collaborative research? A call for contributor roles. Accountability in Research, 1–21. https://doi.org/10.1080/08989621.2020.1779591
+* Papers on why contributions/credit matters to early career researchers?
 
 # Diversity, Documentation, and Darjeeling
 
