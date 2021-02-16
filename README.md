@@ -127,7 +127,7 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 ## Resources & Examples to Share:
 * [Visual matrices for clarity in contributor roles](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers?utm_source=Daily+Lab+email+list&utm_campaign=362c382437-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-362c382437-396184709)
 * National Academies incentives
-* Example of [`tidycensus` R package](https://github.com/walkerke/tidycensus) by Dr. Kyle Walker and "research output" evaluation mis-match
+* [Example](https://github.com/walkerke/tidycensus) of `tidycensus` R package by Dr. Kyle Walker and "research output" evaluation mis-match
 * CRediT stands for Contributor Roles Taxonomy and is describe [here](https://casrai.org/credit/) by the Consortia Advancing Standards in Research Administration (CASRAI) and National Information Standards Organization (NISO)
 * [Example](https://www.cell.com/pb/assets/raw/shared/guidelines/CRediT-taxonomy.pdf) of the journal *Cell* adopting CRediT taxonomy to standardize author contribution statements in peer-reviewed articles (see more at https://casrai.org/credit/ > "Adopters")
 * [Example](https://www.rigb.org/christmas-lectures/watch/2020/planet-earth-a-users-guide) of science communication by [Dr. Christopher Jackson](https://twitter.com/seis_matters) who was invited along with two other scientists to give this year's Royal Institution Christmas Lecture
