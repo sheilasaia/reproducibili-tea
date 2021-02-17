@@ -172,3 +172,4 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 * [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
 * [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
 * [*Equity in Author Order: A Feminist Laboratory Approach*](https://catalystjournal.org/index.php/catalyst/article/view/28850) by M. Liboiron et al. (2017) --> also related to last week's discussion on contributions
+* [Example](https://rstudio.com/resources/rstudioglobal-2021/rkenyacensus-package/) of open, accessible, but un-usable data...made usable, talk by Shelmith Kariuki
