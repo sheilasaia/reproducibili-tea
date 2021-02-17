@@ -150,6 +150,8 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
+With special guest, [Dr. Yuhan (Douglas) Rao](https://ncics.org/people/douglas-rao/).
+
 ## Tea Talk
 1. What's your take on Darjeeling in the tea-sphere?
 2. Do you think of Wes Anderson while drinking darjeeling?
