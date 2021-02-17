@@ -169,3 +169,4 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 ## Resources & Examples to Share:
 * [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
 * [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
+* [*Equity in Author Order: A Feminist Laboratory Approach*](https://catalystjournal.org/index.php/catalyst/article/view/28850) by M. Liboiron et al. (2017) --> also related to last week's discussion on contributions
