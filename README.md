@@ -141,7 +141,15 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 * Transparency in Author Contributions in Science (TACS). (n.d.). Retrieved June 7, 2019, from http://www.nasonline.org/publications/Transparency_Author_Contributions.html
 * Vasilevsky, N. A., Hosseini, M., Teplitzky, S., Ilik, V., Mohammadi, E., Schneider, J., Kern, B., Colomb, J., Edmunds, S. C., Gutzman, K., Himmelstein, D. S., White, M., Smith, B., O’Keefe, L., Haendel, M., & Holmes, K. L. (2020). Is authorship sufficient for today’s collaborative research? A call for contributor roles. Accountability in Research, 1–21. https://doi.org/10.1080/08989621.2020.1779591
 * Papers on why contributions/credit matters to early career researchers?
+* Lieden University [announcement about reevaluating academic recognition](https://www.universiteitleiden.nl/en/news/2021/01/academia-in-motion-a-different-form-of-recognition-and-reward)
+* Robinson-Garcia, N., Costas, R., Sugimoto, C. R., Larivière, V., & Nane, G. F. (2020). Meta-Research: Task specialization across research careers. ELife, 9, e60586. https://doi.org/10.7554/eLife.60586
+* Saia, S.M., Suttles, K.M., Cutts, B.B. et al. Applying Climate Change Risk Management Tools to Integrate Streamflow Projections and Social Vulnerability. Ecosystems 23, 67–83 (2020). https://doi.org/10.1007/s10021-019-00387-5
+* [Contributorship methodology for Immersive Scholar](https://osf.io/3z7k5/wiki/Contribution%20methodology/)
+* [Special Issue of Digital Humanities Quarterly on Invisible Labor](http://www.digitalhumanities.org/dhq/vol/13/2/index.html)
+* Zuberi, T., & Bonilla-Silva, E. (2008). White logic, white methods: Racism and methodology. Lanham: Rowman & Littlefield Publishers. http://www.worldcat.org/oclc/181910126
+* Zuberi, T. (2001). Thicker than blood: How racial statistics lie. Minneapolis: University of Minnesota Press. http://www.worldcat.org/oclc/1175643815
 
+---
 # Diversity, Documentation, and Darjeeling
 
 > Accessible open knowledge and open science for all
