@@ -177,6 +177,11 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 
 ## Resources & Examples to Share:
 * [*What is Darjeeling Tea*](https://www.thespruceeats.com/tea-flushes-in-darjeeling-765194) on The Spruce Eats blog
+* [Protected Origin Status for Darjeeling Tea](https://www.teatrekker.com/protected-origin-status-granted-to-darjeeling-tea/)
+* The Darjeeling Distinction : Labor and Justice on Fair-Trade Tea Plantations in India by Sarah Besky [https://hdl.handle.net/2027/heb.33049](https://hdl.handle.net/2027/heb.33049)
+* [People First Tourism Lab](https://www.p1tlab.ncsu.edu/#overview)
+* [Knowledge Equity Lab](https://knowledgeequitylab.ca/)
+* Chan, Leslie, Hall, Budd, Piron, Florence, Tandon, Rajesh, & Williams, Wanósts'a7 Lorna. (2020, July 15). Open Science Beyond Open Access: For and with communities, A step towards the decolonization of knowledge (Version 1). Zenodo. [http://doi.org/10.5281/zenodo.3946773](http://doi.org/10.5281/zenodo.3946773)
 * [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
 * [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
 * [WEBAIM resources](https://webaim.org/) for accessible websites
