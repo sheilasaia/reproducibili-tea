@@ -162,22 +162,27 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 
 ## Tea Talk
 1. What's your take on Darjeeling in the tea-sphere?
-2. Do you think of Wes Anderson while drinking darjeeling?
-3. Why [reproducibili-tea](https://reproducibilitea.org/)?
+2. Do you think of Wes Anderson while drinking darjeeling? (Bonus: What's your favorite Wes Anderson film?)
+3. This is our last week! :/ Any other tea types you recommend?
+4. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
 ## Discusion Questions:
-1. What are some potential barriers to doing/reproducing open science?
-2. What is it like to be a scientist doing open science?
+1. What is it like to be a scientist doing open science?
+2. What are some potential barriers to doing/reproducing open science?
 3. What are some common questions the library gets about doing open science?
-4. What is FAIR?
-5. What is CARE?
-6. What role do relationships play when doing open science? (not a one way street)
-7. Why are FAIR and CARE important?
-8. How do we make data science training open and more inclusive?
-9. How can we make documentation accessible to non-English speakers and folks that use assistive technologies?
+4. What role do relationships play when doing open science? (not a one way street)
+5. What is FAIR (Findable, Accessible, Interoperable, Reproducible) and CARE (Collective Benefit, Authority to Control, Responsibility, Ethics)? Why are they important?
+6. How do we make open science training open and more inclusive?
+7. How can we make documentation accessible to non-English speakers and folks that use assistive technologies?
 
 ## Resources & Examples to Share:
+* [*What is Darjeeling Tea*](https://www.thespruceeats.com/tea-flushes-in-darjeeling-765194) on The Spruce Eats blog
 * [OpenCider](https://www.opencider.org/) Open Computational Inclusion & Digital resources
 * [Medium article](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) on writing Alt Text for data visualizations
+* [WEBAIM resources](https://webaim.org/) for accessible websites
 * [*Equity in Author Order: A Feminist Laboratory Approach*](https://catalystjournal.org/index.php/catalyst/article/view/28850) by M. Liboiron et al. (2017) --> also related to last week's discussion on contributions
+* [*Ten simple rules for making training materials FAIR*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854) by Garcia et al. (2020)
+* [*The CARE Principles for Indigenous Data Governance*](https://datascience.codata.org/articles/10.5334/dsj-2020-043/) by Russo Carroll et al. (2020) - "The ‘CARE Principles for Indigenous Data Governance’ (Collective Benefit, Authority to Control, Responsibility, and Ethics) (RDA IG 2019) empower Indigenous Peoples by shifting the focus from regulated consultation to value-based relationships that position data approaches within Indigenous cultures and knowledge systems to the benefit of Indigenous Peoples (Castellano 2004; Anderson et al. 2003). This shift ultimately promotes equitable participation in processes of data reuse, which will result in more equitable outcomes."
+* [OpenScapes website](https://www.openscapes.org/) for open science training materials
+* [10-week plan for open science](https://www.nature.com/articles/d41586-019-03335-4) by Lowndes et al., (2017) - This is a great cirriculumn for lab groups!
 * [Example](https://rstudio.com/resources/rstudioglobal-2021/rkenyacensus-package/) of open, accessible, but un-usable data...made usable, talk by Shelmith Kariuki
