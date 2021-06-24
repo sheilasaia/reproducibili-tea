@@ -191,3 +191,14 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 * [OpenScapes website](https://www.openscapes.org/) for open science training materials
 * [10-week plan for open science](https://www.nature.com/articles/d41586-019-03335-4) by Lowndes et al., (2017) - This is a great cirriculumn for lab groups!
 * [Example](https://rstudio.com/resources/rstudioglobal-2021/rkenyacensus-package/) of open, accessible, but un-usable data...made usable, talk by Shelmith Kariuki
+
+
+Notes for Summer of 2021
+- July (show your open science) and August session (JEDI in open science or TSR)
+- ideas for sessions: (1) everyday open science (w/ demos --> sheila and someonen else from different field, international)?, (2) shellcast open science TSR as a convo with natalie, sierra
+- Indigenous data sovereignty group (but would pay them to converse w/ us, $500?)
+- AfricaR package developer and her experience with open science outside the US (honorarium $500?)
+- Knowledge Equity Lab invite (honorarium $500?)
+- Micah will check on honorarium
+- Micah and Sheila will think of guests
+- July 27 12-1pm tentative first one
