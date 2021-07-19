@@ -1,31 +1,62 @@
 # reproducibili-tea
-Brainstorm document and resources for the Reproducibili-Tea events at NC State University Libraries co-organized by Micah Vandegrift and Sheila Saia.
-Livestream and recordings will be available at https://www.twitch.tv/ncsulibraries
+Brainstorm, notes, and resources for the Open Science and Reproducibili-Tea events at NC State University Libraries, co-organized by Micah Vandegrift and Sheila Saia.
 
-# Schedule
-* Earl Grey Open Literature (2021-02-03 12-1pm ET / 17:00 UCT)
-* Open Kombucha Knowledge (2021-02-10 12-1pm ET / 17:00 UCT)
-* Credit, Contributors, and Chai (2021-02-17 12-1pm ET / 17:00 UCT)
-* Diversity, Documentation, and Darjeeling (2021-02-24 12-1pm ET / 17:00 UCT)
+Livestream and recordings will be available at [NC State Library Twitch](https://www.twitch.tv/ncsulibraries)
 
-# Platform
-[NC State Library Twitch](https://www.twitch.tv/ncsulibraries) (via Discord for Micah and Sheila)
+# Summer/Fall 2021 Schedule
+* Show me the Open Science! 27, July, 12p EST (1600 UTC)
 
-# Earl Grey Literature
+## Show me the Open Science!
 
-> The evolving scholarly record and reproducibility
-
-## Introductions
+### Introductions
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
-## Tea Talk
+### Tea Talk
+1. Why [reproducibili-tea](https://reproducibilitea.org/)?
+2. Real talk - Sweet Tea
+
+### Discussion
+* What does open science actually *look* like on someones laptop?
+* Code as scholarly artifact?
+* Is 'science' the product (written results) or the process?
+
+### Resources
+* [Research Objcect](researchobject.org)
+* [Octopus](https://science-octopus.org/)
+* [hypergraph](https://hypergraph.xyz/)
+* [OpenMimosa](https://openmimosablog.wordpress.com/)
+
+
+Notes for Summer of 2021
+---
+- July (show your open science) and August session (JEDI in open science or TSR)
+- ideas for sessions: (1) everyday open science (w/ demos --> sheila and someone else from different field, international)?, (2) shellcast open science TSR as a convo with natalie, sierra
+- Indigenous data sovereignty group (but could pay them to converse w/ us)
+- AfricaR package developer and her experience with open science outside the US (honorarium?)
+- Knowledge Equity Lab invite (honorarium?)
+- Micah will check on honorarium
+- Micah and Sheila will think of guests
+
+---
+
+# Spring 2021 Schedule
+
+## Earl Grey Literature
+
+> The evolving scholarly record and reproducibility
+
+### Introductions
+
+[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+
+### Tea Talk
 1. What exactly is Earl Grey?
 2. Is it gauche to order a 'London Fog' at the local coffee shop?
 3. London is cool, right?
 4. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
-## Discussion Questions:
+### Discussion Questions:
 1. Oxford [Reproducible Research](https://ox.ukrn.org/) Initiative
 2. What is 'grey literature' anyways?
 - "That which is produced on all levels of government, academics, business and industry in print and electronic formats, but which is not controlled by commercial publishers." From the [4th International Conference on Grey Literature](https://www.greylit.org/about) (1999)
@@ -35,7 +66,7 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 6. What is pre-registration?
 7. Any papers, resources, experts, etc. you want to share on this topic?
 
-## Resources & Examples to Share:
+### Resources & Examples to Share:
 * Pollock, M. C. (2018). Art of the Tea Latte. Tea & Coffee Trade Journal, 190(4), 47–49.
 * Bazalgette, P. (2013). The taste test: Earl grey tea. FT.Com
 * Lavoie, Brian, Eric Childress, Ricky Erway, Ixchel Faniel, Constance Malpas, Jennifer Schaffner, and Titia van der Werf. 2014. The Evolving Scholarly Record. Dublin, Ohio: OCLC Research. https://doi.org/10.25333/C3763V.
@@ -58,29 +89,29 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 
 ---
 
-# Open Kombucha Knowledge
+## Open Kombucha Knowledge
 
 > Universities/Institutions and open knowledge
 
-## Introductions
+### Introductions
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
-## Tea Talk
+### Tea Talk
 1. What is that science experiment on your counter?
 2. How does kombucha work?
 3. Why is brewing kombucha fun?
 4. What's your favorite kombucha flavor?
 5. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
-## Discusion Questions:
+### Discusion Questions:
 1. When does something move from information to knowledge?
 2. What is open knowledge, open science, open (fill in blank)?
 3. What started you on your open access/open science journey? (Origin story!)
 4. What are our open knowledge roles as librarians and researchers?
 5. What is metadata and why is it important?
 
-## Resources & Examples to Share:
+### Resources & Examples to Share:
 * [Reusable Research webinar](https://reusableresearch.com/) (happening just as we finish!)
 * [Open Knowledge Institutions: Reinventing Universities](https://wip.mitpress.mit.edu/oki)
 * [NC State Dept. of Applied Ecology Fermentology Mini-Seminars](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
@@ -98,24 +129,24 @@ Livestream and recordings will be available at https://www.twitch.tv/ncsulibrari
 * [Scholia](https://scholia.toolforge.org/) built on/from [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 
 ---
-# Credit, Contributors, and Chai
+## Credit, Contributors, and Chai
 
 > Attributing open knowledge
 
-## Introductions
+### Introductions
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimoto/index.php).
 
-## Tea Talk
+### Tea Talk
 1. What are Micah's feelings/thoughts about giving kombucha a second chance since our conversation last week? (Is it still a weird, sour science experiment?)
 2. What's the difference between chai and cha?
 2. What spices are key to a good chai?
 3. What's Cassidy's favorite type of tea?
 4. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
-## Discusion Questions:
+### Discusion Questions:
 1. What is the CRediT taxonomy?
 2. What is Altmetric?
 3. What is it like to be on the inside of a lab (i.e., Micah's vs Sheila & Cassidy's perspective on credit and open science collaborations)?
@@ -124,7 +155,7 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 6. What are some barriers to open science being the norm? (evaluation/research outputs and training)
 7. How did you get started on your open science journey?
 
-## Resources & Examples to Share:
+### Resources & Examples to Share:
 * [Visual matrices for clarity in contributor roles](https://www.natureindex.com/news-blog/researchers-embracing-visual-tools-contribution-matrix-give-fair-credit-authors-scientific-papers?utm_source=Daily+Lab+email+list&utm_campaign=362c382437-dailylabemail3&utm_medium=email&utm_term=0_d68264fd5e-362c382437-396184709)
 * National Academies incentives
 * [Example](https://github.com/walkerke/tidycensus) of `tidycensus` R package by Dr. Kyle Walker and "research output" evaluation mis-match
@@ -150,23 +181,23 @@ With special guest, [Dr. Cassidy Sugimoto](https://ella.sice.indiana.edu/~sugimo
 * Zuberi, T. (2001). Thicker than blood: How racial statistics lie. Minneapolis: University of Minnesota Press. http://www.worldcat.org/oclc/1175643815
 
 ---
-# Diversity, Documentation, and Darjeeling
+## Diversity, Documentation, and Darjeeling
 
 > Accessible open knowledge and open science for all
 
-## Introductions
+### Introductions
 
 [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
 
 With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 
-## Tea Talk
+### Tea Talk
 1. What's your take on Darjeeling in the tea-sphere?
 2. Do you think of Wes Anderson while drinking darjeeling? (Bonus: What's your favorite Wes Anderson film?)
 3. This is our last week! :/ Any other tea types you recommend?
 4. Why [reproducibili-tea](https://reproducibilitea.org/)?
 
-## Discusion Questions:
+### Discusion Questions:
 1. What is it like to be a scientist doing open science?
 2. What are some potential barriers to doing/reproducing open science?
 3. What are some common questions the library gets about doing open science?
@@ -175,7 +206,7 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 6. How do we make open science training open and more inclusive?
 7. How can we make documentation accessible to non-English speakers and folks that use assistive technologies?
 
-## Resources & Examples to Share:
+### Resources & Examples to Share:
 * [*What is Darjeeling Tea*](https://www.thespruceeats.com/tea-flushes-in-darjeeling-765194) on The Spruce Eats blog
 * [Protected Origin Status for Darjeeling Tea](https://www.teatrekker.com/protected-origin-status-granted-to-darjeeling-tea/)
 * The Darjeeling Distinction : Labor and Justice on Fair-Trade Tea Plantations in India by Sarah Besky [https://hdl.handle.net/2027/heb.33049](https://hdl.handle.net/2027/heb.33049)
@@ -191,14 +222,3 @@ With special guest, [Dr. Y. Douglas Rao](https://ncics.org/people/douglas-rao/).
 * [OpenScapes website](https://www.openscapes.org/) for open science training materials
 * [10-week plan for open science](https://www.nature.com/articles/d41586-019-03335-4) by Lowndes et al., (2017) - This is a great cirriculumn for lab groups!
 * [Example](https://rstudio.com/resources/rstudioglobal-2021/rkenyacensus-package/) of open, accessible, but un-usable data...made usable, talk by Shelmith Kariuki
-
-
-Notes for Summer of 2021
-- July (show your open science) and August session (JEDI in open science or TSR)
-- ideas for sessions: (1) everyday open science (w/ demos --> sheila and someonen else from different field, international)?, (2) shellcast open science TSR as a convo with natalie, sierra
-- Indigenous data sovereignty group (but would pay them to converse w/ us, $500?)
-- AfricaR package developer and her experience with open science outside the US (honorarium $500?)
-- Knowledge Equity Lab invite (honorarium $500?)
-- Micah will check on honorarium
-- Micah and Sheila will think of guests
-- July 27 12-1pm tentative first one
