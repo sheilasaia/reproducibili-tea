@@ -1,4 +1,4 @@
-# reproducibili-tea
+# Open Science and Reproducibili-tea @ NC State University
 Brainstorm, notes, and resources for the Open Science and Reproducibili-Tea events at NC State University Libraries, co-organized by Micah Vandegrift and Sheila Saia.
 
 Livestream and recordings will be available at [NC State Library Twitch](https://www.twitch.tv/ncsulibraries)
@@ -6,11 +6,12 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 # Summer/Fall 2021 Schedule
 * Show me the Open Science! 27, July, 12p EST (1600 UTC)
 
-## Show me the Open Science!
+## Show me the Open Science! (July 27, 12p EST)
 
 ### Introductions
 
-[Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him) and [Sheila](https://sheilasaia.rbind.io/) (she/her) introduce themselves!
+* [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
+* [Sheila](https://sheilasaia.rbind.io/) (she/her)
 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
@@ -27,6 +28,24 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 * [hypergraph](https://hypergraph.xyz/)
 * [OpenMimosa](https://openmimosablog.wordpress.com/)
 
+## Show me the Open Science! (in Ten Simple Rules or Less) (August, day/time TBD)
+
+### Introductions
+* [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
+* [Sheila](https://sheilasaia.rbind.io/) (she/her)
+* Special Guest
+* Special Guest
+
+### Tea Talk
+1. Why [reproducibili-tea](https://reproducibilitea.org/)?
+
+### Discussion
+
+### Resources
+
+
+
+---- 
 
 Notes for Summer of 2021
 ---
