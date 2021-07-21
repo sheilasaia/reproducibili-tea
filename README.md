@@ -4,9 +4,10 @@ Brainstorm, notes, and resources for the Open Science and Reproducibili-Tea even
 Livestream and recordings will be available at [NC State Library Twitch](https://www.twitch.tv/ncsulibraries)
 
 # Summer/Fall 2021 Schedule
-* Show me the Open Science! 27, July, 12p EST (1600 UTC)
+* Show Me the Open Science! (Part 1) Tuesday, July 27 from 12-1p EST (1600 UTC)
+* Show Me the Open Science! (Part 2) August TBD
 
-## Show me the Open Science! (July 27, 12p EST)
+## Show Me the Open Science! (Part 1)
 
 ### Introductions
 
