@@ -9,6 +9,8 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 
 ## Show Me the Open Science! (Part 1)
 
+> The theory and practice of open science *in real life (IRL)*
+
 ### Introductions
 
 * [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
@@ -19,7 +21,17 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 2. Real talk - Sweet Tea
 
 ### Discussion
-* What does open science actually *look* like on someones laptop?
+* 
+* Working towards being *as open as possible, where you improve with each iteration*
+* Project directory structures - what to do with code and data?
+* Example [Sheila's first reproducible repo](https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms)
+* Example [Sheila's latest (work in progress) reproducible repo](https://github.com/sheilasaia/paper-ndfd-nccoast-study)
+* Check out collaboration and issue organization with GitHub projects, see [example](https://github.com/sheilasaia/paper-ndfd-nccoast-study/projects/1)
+* Using Git and R (demo) and/or using Git in the terminal (demo)
+* Zenodo and GitHub [connection](https://guides.github.com/activities/citable-code/)
+* How to save/version control data? Check out [Zenodo](https://zenodo.org/) and [pancaderm](https://github.com/pachyderm/pachyderm) (warning: Sheila hasn't actually used this yet)
+* Preprints in practice on, for example, [EarthArXiv](https://eartharxiv.org/repository/view/2545/)
+* What happens when you can't be open? See [this preprint and appendix for ideas](https://eartharxiv.org/repository/view/2288/)
 * Code as scholarly artifact?
 * Is 'science' the product (written results) or the process?
 
@@ -28,6 +40,10 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 * [Octopus](https://science-octopus.org/)
 * [hypergraph](https://hypergraph.xyz/)
 * [OpenMimosa](https://openmimosablog.wordpress.com/)
+* [Zenodo and GitHub connection](https://guides.github.com/activities/citable-code/)
+* [The Carpentres tutorial on Git](http://swcarpentry.github.io/git-novice/)
+* [The Carpentres tutorial on the Unix shell](http://swcarpentry.github.io/shell-novice/)
+* [Open Hydrology](https://open-hydrology.github.io/)
 
 ## Show me the Open Science! (in Ten Simple Rules or Less) (August, day/time TBD)
 
