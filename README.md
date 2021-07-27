@@ -18,7 +18,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
-2. Real talk - Sweet Tea
+2. Real talk - Sweet Tea vs Unsweet Tea (which is better)
 
 ### Discussion
 * Working towards being *as open as possible, where you improve with each iteration*
