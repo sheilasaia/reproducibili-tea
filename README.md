@@ -21,7 +21,6 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 2. Real talk - Sweet Tea
 
 ### Discussion
-* 
 * Working towards being *as open as possible, where you improve with each iteration*
 * Project directory structures - what to do with code and data?
 * Example [Sheila's first reproducible repo](https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms)
