@@ -36,7 +36,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 * Is 'science' the product (written results) or the process?
 
 ### Resources
-* [Research Objcect](researchobject.org)
+* [Research Object](https://researchobject.org)
 * [Octopus](https://science-octopus.org/)
 * [hypergraph](https://hypergraph.xyz/)
 * [OpenMimosa](https://openmimosablog.wordpress.com/)
