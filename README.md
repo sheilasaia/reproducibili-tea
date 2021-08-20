@@ -64,8 +64,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 4. Can you describe the idea behind the Ten Simple Rules paper?
 5. What do you see as the link between the Ten Simple Rules paper and open science?
 6. What surprised you most about developing an open source web app like ShellCast?
-7. Do you have a favorite rule?s
-
+7. Do you have a favorite rule?
 
 ### Resources
 
@@ -130,7 +129,6 @@ Notes for Summer of 2021
 * Center for Open Science on Preregistration definition and resources (link [here](https://www.cos.io/initiatives/prereg))
 * *The preregistration revolution* by Nosek et al. (paper [here](https://www.pnas.org/content/115/11/2600))
 * *Ten Simple Rules to Consider Regarding Preprint Submission* by Bourne et al. (paper [here](http://dx.plos.org/10.1371/journal.pcbi.1005473))
-
 
 ---
 
