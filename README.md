@@ -5,7 +5,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 
 # Summer/Fall 2021 Schedule
 * Show Me the Open Science! (Part 1) Tuesday, July 27 from 12-1p EST (1600 UTC)
-* Show Me the Open Science! (Part 2) August TBD
+* Show Me the Open Science! (Part 2) Thursday, August 27 from 12-1pm EST (1600 UTC)
 
 ## Show Me the Open Science! (Part 1)
 
@@ -44,18 +44,28 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 * [The Carpentries tutorial on the Unix shell](http://swcarpentry.github.io/shell-novice/)
 * [Open Hydrology](https://open-hydrology.github.io/)
 
-## Show me the Open Science! (in Ten Simple Rules or Less) (August, day/time TBD)
+## Show me the Open Science! (in Ten Simple Rules or Less; Part 2) 
 
 ### Introductions
 * [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
 * [Sheila](https://sheilasaia.rbind.io/) (she/her)
-* Special Guest
-* Special Guest
+* [Dr. Natalie Nelson](http://nelson.rbind.io/), lead of the Biosystems Analytics Lab (BAL), Dept. of Bio & Ag Engineering at NC State
+* [Dr. Sierra Young](https://thedaisylab.com/), lead of the Digitial Agroecology and Intelligent Systems Lab (DAISy Lab), Dept. of Bio & Ag Engineering at NC State
 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
+2. Do Natalie and Sierra like tea? If so, which kinds?
+3. Do you have a few simple rules for making a great cuppa? :)
 
 ### Discussion
+1. Can you tell us a little bit about the research you do?
+2. Can you tell us about how you first got interested in open science/reproducible research?
+3. Can you describe one of your favorite open science project (that you've participated in)?
+4. Can you describe the idea behind the Ten Simple Rules paper?
+5. What do you see as the link between the Ten Simple Rules paper and open science?
+6. What surprised you most about developing an open source web app like ShellCast?
+7. Do you have a favorite rule?s
+
 
 ### Resources
 
