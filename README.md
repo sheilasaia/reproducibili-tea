@@ -67,7 +67,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 7. Do you have a favorite rule?
 
 ### Resources
-Ten Simple Rules [paper](https://eartharxiv.org/repository/view/2545/) by Sheila, Natalie, Sierra, and Micah
+* Ten Simple Rules [preprint](https://eartharxiv.org/repository/view/2545/) by Sheila, Natalie, Sierra, and Micah
 
 
 ---- 
