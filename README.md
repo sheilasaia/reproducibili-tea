@@ -49,8 +49,8 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 ### Introductions
 * [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
 * [Sheila](https://sheilasaia.rbind.io/) (she/her)
-* [Dr. Natalie Nelson](http://nelson.rbind.io/), lead of the Biosystems Analytics Lab (BAL), Dept. of Bio & Ag Engineering at NC State
-* [Dr. Sierra Young](https://thedaisylab.com/), lead of the Digitial Agroecology and Intelligent Systems Lab (DAISy Lab), Dept. of Bio & Ag Engineering at NC State
+* [Dr. Natalie Nelson](http://nelson.rbind.io/), professor and lead of the Biosystems Analytics Lab (BAL) in the Dept. of Bio & Ag Engineering at NC State. Natalie uses data analytics and machine learning to study complex biological system dynamics in lots of different applications from aquaculture to water resources management and beyond.
+* [Dr. Sierra Young](https://thedaisylab.com/), professor and lead of the Digitial Agroecology and Intelligent Systems Lab (DAISy Lab) in the Dept. of Bio & Ag Engineering at NC State. Sierra develops human-centered robots and sensors that help monitor agricultural systems and natural processes.
 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
@@ -67,7 +67,7 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 7. Do you have a favorite rule?
 
 ### Resources
-
+Ten Simple Rules [paper](https://eartharxiv.org/repository/view/2545/) by Sheila, Natalie, Sierra, and Micah
 
 
 ---- 
