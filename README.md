@@ -66,6 +66,18 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 6. What surprised you most about developing an open source web app like ShellCast?
 7. Do you have a favorite rule?
 
+### Ten Simple Rules (for reference)
+1. Start with user-centered design
+2. Test, test, then test again
+3. Make it accessible
+4. Protect your users
+5. Hire a web developer, or become one
+6. Expect expenses
+7. Leverage institutional expertise
+8. Track your progress with existing collaboration tools
+9. Estimate task times, then double them (and then some)
+10. Make it last: Plan for the long haul
+
 ### Resources
 * Ten Simple Rules [preprint](https://eartharxiv.org/repository/view/2545/) by Sheila, Natalie, Sierra, and Micah
 
