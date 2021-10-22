@@ -19,7 +19,7 @@ Livestreaming on [NC State Library Twitch](https://www.twitch.tv/ncsulibraries) 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
 2. Best tea for autumn/reading legal contracts?
-3. Happy Open Access Week! 
+3. Happy [Open Access Week](http://www.openaccessweek.org/)! 
 
 ### Discussion
 1. Why do publication contracts matter?
