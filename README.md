@@ -30,9 +30,9 @@ Livestreaming on [NC State Library Twitch](https://www.twitch.tv/ncsulibraries) 
 6. What situation would be most ideal for you when publishing and using your work after the fact?
 
 ### Resources
-[SPARC's Authors Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/)
-[Author's Alliance](https://www.authorsalliance.org/resources/)
-[Your local friendly scholarly communication or open publishing librarian!](https://www.lib.ncsu.edu/do/publishing-and-copyright)
+* [SPARC's Authors Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/)
+* [Author's Alliance](https://www.authorsalliance.org/resources/)
+* [Your local friendly scholarly communication or open publishing librarian!](https://www.lib.ncsu.edu/do/publishing-and-copyright)
 
 ---- 
 
