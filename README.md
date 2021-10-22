@@ -1,48 +1,40 @@
 # Open Science and Reproducibili-tea @ NC State University
 Brainstorm, notes, and resources for the Open Science and Reproducibili-Tea events at NC State University Libraries, co-organized by Micah Vandegrift and Sheila Saia.
 
-Livestream and recordings will be available at [NC State Library Twitch](https://www.twitch.tv/ncsulibraries)
+Livestreaming on [NC State Library Twitch](https://www.twitch.tv/ncsulibraries) with recordings shared to the [Libraries YouTube channel](https://www.youtube.com/playlist?list=PLD5mHyT9aLzP13puBVPmdVTHUy8kE46RH).
 
 # Summer/Fall 2021 Schedule
 * Show Me the Open Science! (Part 1) Tuesday, July 27 from 12-1p EST (1600 UTC)
 * Show Me the Open Science! (Part 2) Thursday, August 27 from 12-1pm EST (1600 UTC)
+* Show Me the Open Science! (Part 3) Friday, October 22 from 12-1pm EST (1600 UTC)
 
-## Show Me the Open Science! (Part 1)
-
-> The theory and practice of open science *in real life (IRL)*
+## Show me the Open Science! Part 3 - Dissecting a Publication Contract
 
 ### Introductions
-
 * [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
-* [Sheila](https://sheilasaia.rbind.io/) (she/her)
+* [Will Cross](https://www.lib.ncsu.edu/staff/wmcross) (he/him)
+* [Carlos Goller](https://bio.sciences.ncsu.edu/people/ccgoller/)
+* [Maggie Simon](https://chass.ncsu.edu/people/mfyfe/)
 
 ### Tea Talk
 1. Why [reproducibili-tea](https://reproducibilitea.org/)?
-2. Real talk - Sweet Tea vs Unsweet Tea (which is better)
+2. Best tea for autumn/reading legal contracts?
+3. Happy Open Access Week! 
 
 ### Discussion
-* Working towards being *as open as possible, where you improve with each iteration*
-* Project directory structures - what to do with code and data?
-* Example [Sheila's first reproducible repo](https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms)
-* Example [Sheila's latest (work in progress) reproducible repo](https://github.com/sheilasaia/paper-ndfd-nccoast-study)
-* Check out collaboration and issue organization with GitHub projects, see [example](https://github.com/sheilasaia/paper-ndfd-nccoast-study/projects/1)
-* Using Git and R (demo) and/or using Git in the terminal (demo)
-* Zenodo and GitHub [connection](https://guides.github.com/activities/citable-code/)
-* How to save/version control data? Check out [Zenodo](https://zenodo.org/) and [pancaderm](https://github.com/pachyderm/pachyderm) (warning: Sheila hasn't actually used this yet)
-* Preprints in practice, for example, [EarthArXiv](https://eartharxiv.org/repository/view/2545/)
-* What happens when you can't be open? See [this preprint and appendix for ideas](https://eartharxiv.org/repository/view/2288/)
-* Code as scholarly artifact?
-* Is 'science' the product (written results) or the process?
+1. Why do publication contracts matter?
+2. Tell us about weird circumstances you've had with a publishing contract
+3. What is your primary need/goal when you approach a contract?
+4. How have you typically used your own work after publication?
+5. What seems confusing about your most recent contract or publishing experience?
+6. What situation would be most ideal for you when publishing and using your work after the fact?
 
 ### Resources
-* [Research Object](https://researchobject.org)
-* [Octopus](https://science-octopus.org/)
-* [hypergraph](https://hypergraph.xyz/)
-* [OpenMimosa](https://openmimosablog.wordpress.com/)
-* [Zenodo and GitHub connection](https://guides.github.com/activities/citable-code/)
-* [The Carpentries tutorial on Git](http://swcarpentry.github.io/git-novice/)
-* [The Carpentries tutorial on the Unix shell](http://swcarpentry.github.io/shell-novice/)
-* [Open Hydrology](https://open-hydrology.github.io/)
+[SPARC's Authors Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/)
+[Author's Alliance](https://www.authorsalliance.org/resources/)
+[Your local friendly scholarly communication or open publishing librarian!](https://www.lib.ncsu.edu/do/publishing-and-copyright)
+
+---- 
 
 ## Show me the Open Science! (in Ten Simple Rules or Less; Part 2) 
 
@@ -81,18 +73,45 @@ Livestream and recordings will be available at [NC State Library Twitch](https:/
 ### Resources
 * Ten Simple Rules [preprint](https://eartharxiv.org/repository/view/2545/) by Sheila, Natalie, Sierra, and Micah
 
+----
 
----- 
+## Show Me the Open Science! (Part 1)
 
-Notes for Summer of 2021
----
-- July (show your open science) and August session (JEDI in open science or TSR)
-- ideas for sessions: (1) everyday open science (w/ demos --> sheila and someone else from different field, international)?, (2) shellcast open science TSR as a convo with natalie, sierra
-- Indigenous data sovereignty group (but could pay them to converse w/ us)
-- AfricaR package developer and her experience with open science outside the US (honorarium?)
-- Knowledge Equity Lab invite (honorarium?)
-- Micah will check on honorarium
-- Micah and Sheila will think of guests
+> The theory and practice of open science *in real life (IRL)*
+
+### Introductions
+
+* [Micah](https://www.lib.ncsu.edu/staff/mlvandeg) (he/him)
+* [Sheila](https://sheilasaia.rbind.io/) (she/her)
+
+### Tea Talk
+1. Why [reproducibili-tea](https://reproducibilitea.org/)?
+2. Real talk - Sweet Tea vs Unsweet Tea (which is better)
+
+### Discussion
+* Working towards being *as open as possible, where you improve with each iteration*
+* Project directory structures - what to do with code and data?
+* Example [Sheila's first reproducible repo](https://github.com/sheilasaia/paper-p-cycling-in-stream-biofilms)
+* Example [Sheila's latest (work in progress) reproducible repo](https://github.com/sheilasaia/paper-ndfd-nccoast-study)
+* Check out collaboration and issue organization with GitHub projects, see [example](https://github.com/sheilasaia/paper-ndfd-nccoast-study/projects/1)
+* Using Git and R (demo) and/or using Git in the terminal (demo)
+* Zenodo and GitHub [connection](https://guides.github.com/activities/citable-code/)
+* How to save/version control data? Check out [Zenodo](https://zenodo.org/) and [pancaderm](https://github.com/pachyderm/pachyderm) (warning: Sheila hasn't actually used this yet)
+* Preprints in practice, for example, [EarthArXiv](https://eartharxiv.org/repository/view/2545/)
+* What happens when you can't be open? See [this preprint and appendix for ideas](https://eartharxiv.org/repository/view/2288/)
+* Code as scholarly artifact?
+* Is 'science' the product (written results) or the process?
+
+### Resources
+* [Research Object](https://researchobject.org)
+* [Octopus](https://science-octopus.org/)
+* [hypergraph](https://hypergraph.xyz/)
+* [OpenMimosa](https://openmimosablog.wordpress.com/)
+* [Zenodo and GitHub connection](https://guides.github.com/activities/citable-code/)
+* [The Carpentries tutorial on Git](http://swcarpentry.github.io/git-novice/)
+* [The Carpentries tutorial on the Unix shell](http://swcarpentry.github.io/shell-novice/)
+* [Open Hydrology](https://open-hydrology.github.io/)
+
 
 ---
 
